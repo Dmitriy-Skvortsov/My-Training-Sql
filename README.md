@@ -1,2 +1,4 @@
 # MyBasicSql
-Data Analyst course in "Arnion"
+**Data Analyst course in "Arnion"**
+**SQL Script**
+
